@@ -134,3 +134,10 @@ img {
         width: 100%;
     }
 }
+
+@media screen and (max-width: 768px) {
+
+    .lessons .col img{
+        height: 25vw;
+    }
+}
